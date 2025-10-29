@@ -1,0 +1,21 @@
+# Core LLM clients
+openai>=1.12.0
+google-generativeai>=0.5.2
+
+# Data and utilities
+pandas>=2.1.0
+tqdm>=4.66.0
+dataclasses-json>=0.6.4
+typing-extensions>=4.7.0
+requests>=2.31.0
+
+# Optional: Logging / error handling helpers
+tenacity>=8.2.3  # retry decorator for API robustness
+
+# (Optional, if your pipeline saves intermediate JSON)
+orjson>=3.9.10
+
+# Development tools (remove in production if not needed)
+black>=24.1.0
+flake8>=7.0.0
+pytest>=8.0.0
