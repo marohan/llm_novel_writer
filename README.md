@@ -236,3 +236,5 @@ This project is distributed under the MIT License. See the `LICENSE` file for de
 For project inquiries: [fragrantmaro@naver.com](fragrantmaro@naver.com)
 
 Project Link: [https://github.com/marohan/llm_novel_writer](https://github.com/marhan/llm_novel_writer)
+
+LinkedIn: [https://www.linkedin.com/in/marohan-min-a5b04533a/](https://www.linkedin.com/in/marohan-min-a5b04533a/)
