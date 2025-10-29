@@ -230,3 +230,9 @@ This project is distributed under the MIT License. See the `LICENSE` file for de
 
 - Google Gemini API
 - All contributors
+
+## 📧 Contact Us
+
+For project inquiries: [fragrantmaro@naver.com](fragrantmaro@naver.com)
+
+Project Link: [https://github.com/marohan/llm_novel_writer](https://github.com/marhan/llm_novel_writer)
