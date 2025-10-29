@@ -83,6 +83,7 @@ novel-writer/
 ├── novel_writer/ # Core libraries
 │ ├── client_setup.py # API client
 │ ├── writer.py # Writer module
+│ ├── writer_config.py # Configuration module
 │ ├── editor.py # Editor module
 │ ├── summarizer.py # Summary module
 │ ├── structure_generator.py # Structure generation
